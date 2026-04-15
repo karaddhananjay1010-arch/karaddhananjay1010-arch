@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhananjay Karad</h1>
+<h3 align="center">BSc Computer Science Student | Aspiring Software Developer</h3>
 
-<!--
-**karaddhananjay1010-arch/karaddhananjay1010-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karaddhananjay1010-arch&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 BSc Computer Science (Final Year)
+- 💻 Passionate about Software Development
+- 🌱 Currently learning: Full Stack Development
+- 📍 Pune, India
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, JavaScript
+- 🌐 Web: HTML, CSS, React
+- 🗄️ Database: MySQL
+- ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+- 🔹 Student Management System (Python + MySQL)
+- 🔹 Portfolio Website
+- 🔹 REST API (Flask)
+
+---
+
+## 📫 Connect with me
+- 📧 karaddhananjay10@gmail.com
+- 💼 https://www.linkedin.com/in/dhananjay-karad-993a253a1
