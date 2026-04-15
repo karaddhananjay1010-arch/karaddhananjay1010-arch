@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BSc Computer Science (Final Year)
+- 🎓 BSc Computer Science 2026
 - 💻 Passionate about Software Development
 - 🌱 Currently learning: Full Stack Development
 - 📍 Pune, India
